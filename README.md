@@ -1,1 +1,2 @@
-Model 7
+# Yakuhito's phone model
+TODO: Add things
